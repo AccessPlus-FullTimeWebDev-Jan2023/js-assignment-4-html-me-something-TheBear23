@@ -1,12 +1,21 @@
-      body {
-        margin: 8px;
-      }
-      
-      .funParagraph {
-        color: green;
-      }
-      
-      #mainHeading {
-        color: red;
-      }
-      
+body {
+  margin: 8px;
+  padding: 0;
+  display: block;
+}
+
+#mainHeading {
+  color: black;
+}
+
+.funParagraph {
+  margin: 0;
+  padding: 4px;
+}
+
+.travel-img {
+  max-width: 75%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
