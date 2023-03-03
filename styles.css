@@ -1,21 +1,40 @@
-body {
-  margin: 8px;
-  padding: 0;
-  display: block;
+header {
+  background-color: lightblue;
 }
 
 #mainHeading {
-  color: black;
+  color: red;
 }
 
-.funParagraph {
-  margin: 0;
-  padding: 4px;
+body {
+  display: block;
+  margin: 8px;
+}
+
+footer {
+  color: black;
+  text-align: center;
+}
+
+#name-header {
+  font-size: 30px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.travel-info {
+  border: 2px solid black;
+  margin: 10px;
+  padding: 10px;
 }
 
 .travel-img {
-  max-width: 75%;
-  height: auto;
   display: block;
-  margin: 0 auto;
+  margin: 10px auto;
+  width: 65%;
+}
+
+.funParagraph {
+  color: green;
+  font-size: 20px;
 }
