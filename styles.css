@@ -4,12 +4,7 @@
       display: block;
     }
     
-    #mainHeading {
-      color: red;
-    }
-    
     .funParagraph {
-      color: green;
       margin: 0;
       padding: 4px;
     }
