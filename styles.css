@@ -1,45 +1,10 @@
 body {
-	width: 100%;
-	max-width: 1024px;
-	margin: 0 auto;
-	background-color: #999999ee;
-	font-size: 65%;
-}
-
-header {
-	padding: 1.875em 0;
-}
-
-header h1 {
-	text-align: center;
-}
-
-h1 {
-	margin: 0;
-}
-
-h1 {
-	font-size: 2.5em;
-}
-
-main h1 {
-	padding: 0.625em 0 0.625em 0.625em;
-}
-
-p {
-	padding: 1.25em;
-}
-
-img {
-	width: 75%;
-	max-width: 75%;
-}
-
-	body {
-		font-size: 65%;
-	}
-
-    footer {
-        text-align: left;
-        padding: 2em;
-    }
+	margin: 8px;
+	display: block;
+  }
+  #mainHeading {
+	color: red;
+  }
+  .funParagraph {
+	color: green;
+  }
