@@ -1,22 +1,18 @@
-    body {
-      margin: 8px;
-      padding: 0;
-      display: block;
-    }
-    
-    .funParagraph {
-      margin: 0;
-      padding: 4px;
-    }
-    
-    .travel-img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: 0 auto;
-      padding: 4px;
-    }
-
-    footer p {
-      text-align: center;
+      body {
+        margin: 8px;
       }
+      
+      .funParagraph {
+        color: green;
+      }
+      
+      #mainHeading {
+        color: red;
+      }
+      Make sure to save this code in a file called styles.css in the same directory as your index.html file.
+      
+      
+      
+      
+      
+      
